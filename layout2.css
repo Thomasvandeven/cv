@@ -1,0 +1,48 @@
+
+
+body {background-color: black;}
+h1 {
+    color: White;
+    font-family: verdana;
+    font-size: 250%;
+}
+
+h3 {
+    color: White;
+    font-family: verdana;
+    font-size: 100%
+}
+
+h4 {
+    color: White;
+    font-family: verdana;
+    font-size: 100%
+}
+h5 {
+    color: White;
+    font-family: verdana;
+    font-size: 100%
+}
+
+p {
+    color: Light grey;
+}
+
+article {
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em; color: White;
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
