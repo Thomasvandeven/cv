@@ -40,12 +40,7 @@ article {
     padding: 1em; color: White;    opacity: 0.8;
 }
 
-special {
-    color: White;
-    font-family: verdana;
-    font-size: 100%;
-        opacity: 0.8;
-}
+
 .footer {
    position: fixed;
    left: 0;
