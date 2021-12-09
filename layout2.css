@@ -29,7 +29,7 @@ h5 {
 }
 
 p {
-    color: Light grey;    opacity: 0.8;
+    color: Light grey;   
 }
 
 article {
@@ -37,8 +37,7 @@ article {
     margin-right: 0px;
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 1em; color: White;    opacity: 0.8;
-}
+    padding: 1em; color: White;   
 
 
 .footer {
